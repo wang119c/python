@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="project23.project23.pipelines.project23" />
+          <option value="project23.project23.spiders.AgencySpider.project23" />
+          <option value="project24.project24.spiders.StationSpider.project24" />
+          <option value="project25.project25.spiders.ScheduleSpider.project25" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
